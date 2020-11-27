@@ -2,6 +2,8 @@
   "name": "cloud-replacer",
   "description": "Replaces a Cloud document with a local file",
   "version": "0.1.0",
+  "author": "Sketch Team <developer@sketch.com>",
+  "repository": "https://github.com/sketch-hq/cloud-replacer.git",
   "engines": {
     "sketch": ">=49.0"
   },
@@ -23,7 +25,6 @@
   "devDependencies": {
     "@skpm/builder": "^0.7.0"
   },
-  "author": "Sketch Team <developer@sketch.com>",
   "dependencies": {
     "@skpm/child_process": "^0.4.2",
     "@skpm/fs": "^0.2.6"
