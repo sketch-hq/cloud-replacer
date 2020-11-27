@@ -1,7 +1,7 @@
 {
   "name": "cloud-replacer",
   "description": "Replaces a Cloud document with a local file",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Sketch Team <developer@sketch.com>",
   "repository": "https://github.com/sketch-hq/cloud-replacer.git",
   "engines": {
